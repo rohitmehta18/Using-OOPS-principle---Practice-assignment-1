@@ -1,0 +1,5 @@
+```text
+The Great Gatsby has been borrowed.
+To Kill a Mockingbird cannot be borrowed as it's unavailable.
+The Great Gatsby has been returned.
+To Kill a Mockingbird has been borrowed.
